@@ -6,6 +6,7 @@ import {
   Github, Linkedin, Mail, Phone, MapPin, Download, ExternalLink,
   GraduationCap, Award, Trophy, Briefcase, Send, Menu, X,
 } from "lucide-react";
+
 import heroBg from "@/assets/hero-bg.jpg";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
